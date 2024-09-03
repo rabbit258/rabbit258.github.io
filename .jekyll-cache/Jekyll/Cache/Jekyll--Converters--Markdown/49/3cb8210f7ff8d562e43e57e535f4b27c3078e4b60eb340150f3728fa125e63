@@ -1,0 +1,52 @@
+I"�	<h2 id="标题测试">标题测试</h2>
+<h3 id="标题测试-1">标题测试</h3>
+<h4 id="标题测试-2">标题测试</h4>
+
+<p><strong>插入代码段</strong></p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+</pre></td><td class="rouge-code"><pre>import gpt
+def HelloWorld():
+    print("hello world")
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+</pre></td><td class="rouge-code"><pre><span class="kn">import</span> <span class="n">gpt</span>
+<span class="k">def</span> <span class="nf">HelloWorld</span><span class="p">():</span>
+    <span class="nf">print</span><span class="p">(</span><span class="sh">"</span><span class="s">hello world</span><span class="sh">"</span><span class="p">)</span>
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<p><strong>插入图片</strong></p>
+
+<p><img src="/assets/avatar.jpg" alt="gpt执行结果" /></p>
+
+<p><img src="/assets/avatar.jpg" alt="gpt执行结果" width="20" height="20" class="shadow" /></p>
+
+<p><strong>插入video</strong></p>
+
+<iframe class="embed-video" loading="lazy" src="https://www.youtube.com/embed/Balreaj8Yqs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<iframe class="embed-video" loading="lazy" src="https://player.bilibili.com/player.html?bvid=BV1Kt411S77j" scrolling="no" frameborder="0" framespacing="0" allowfullscreen="true"></iframe>
+
+<p><strong>提示信息</strong></p>
+
+<blockquote class="prompt-tip">
+  <p>An example showing the <code class="language-plaintext highlighter-rouge">tip</code> type prompt.</p>
+</blockquote>
+
+<blockquote class="prompt-info">
+  <p>An example showing the <code class="language-plaintext highlighter-rouge">info</code> type prompt.</p>
+</blockquote>
+
+<blockquote class="prompt-warning">
+  <p>An example showing the <code class="language-plaintext highlighter-rouge">warning</code> type prompt.</p>
+</blockquote>
+
+<blockquote class="prompt-danger">
+  <p>An example showing the <code class="language-plaintext highlighter-rouge">danger</code> type prompt.</p>
+</blockquote>
+:ET
